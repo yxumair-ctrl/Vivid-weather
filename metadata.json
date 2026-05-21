@@ -1,0 +1,6 @@
+{
+  "name": "Weather Visualizer",
+  "description": "An immersive AI-powered weather dashboard showcasing real-time forecasts, atmospheric generative artworks, and dynamic weather visual effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
